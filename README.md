@@ -1,4 +1,4 @@
-### Recipe App Project
+### Recipe App Group Project 
 
 👨‍💻 **What was developed**
 
@@ -26,4 +26,14 @@ In this project, you will:
 - Redux
 - React-Redux
 - Context API
-- React Hooks (
+- React Hooks
+
+<hr>
+
+  ### My Project Partners:
+
+- Ricardo Raposo: [LinkedIn](https://www.linkedin.com/in/ricardoraposoo/) | [GitHub](https://github.com/ricardoraposo)
+- Mateus Silva: [LinkedIn](https://www.linkedin.com/in/mateus-da-silva-santos/) | [GitHub](https://github.com/mateusddev)
+- Wagner Lopes: [LinkedIn](https://www.linkedin.com/in/wagnerlopesbr/) | [GitHub](https://github.com/wagnerlopesbr)
+- Bernardo Fortini: [LinkedIn](https://www.linkedin.com/in/bernardo-fortini-80472226a/) | [GitHub](https://github.com/bernardofortini)
+- Pedro Teixeira: [LinkedIn](https://www.linkedin.com/in/pedro-teixeira-08709481/) | [GitHub](https://github.com/PedroHdSTeixeira)
