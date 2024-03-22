@@ -2,7 +2,7 @@
 
 👨‍💻 **What was developed**
 
-In this project, I develop a recipe app using the latest React ecosystem features: Hooks and Context API! The app allows users to view, search, filter, favorite, and track the preparation progress of food and drink recipes.
+In this project, we develop a recipe app using the latest React ecosystem features: Hooks and Context API! The app allows users to view, search, filter, favorite, and track the preparation progress of food and drink recipes.
 
 ⚠️ **The database consist of two distinct APIs: one for food and another for drinks.**
 
